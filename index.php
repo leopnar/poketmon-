@@ -22,7 +22,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 .button {
   background-color: transparent; 
   color: green; 
-  border: 2px solid #4CAF50;
+  border: 2px solid #ADD8E6;
   border-radius: 12px;
 }
 a {
@@ -188,7 +188,7 @@ a {
 <div class="wrap-contact100">
 <form class="contact100-form validate-form" method="POST">
 <span class="contact100-form-title">
-Dor Tsel TPP
+Tsel By Alpha/Nza-r
 </span>
 <!--     <form method="POST">
     <pre> -->
