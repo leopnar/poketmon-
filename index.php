@@ -274,14 +274,7 @@ OTP:&nbsp;<?= $_SESSION['otp']."<br>" ?>
 <hr>
 
 PILIH&nbsp;PAKET:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select name="pkgid" onchange="if (this.value=='1'){this.form['pkgidman'].style.visibility='visible'}else {this.form['pkgidman'].style.visibility='hidden'};" style="width: 50%;">
-  <option value="00009382">OMG! 1GB 2hari Rp 10</option>
-  <option value="00007333">OMG! 30gb 30k</option>
-  <option value="00016036">OMG! 5gb 10k</option>
-  <option value="00016030">OMG! 10gb 10k</option>
-  <option value="00016199">AddMax 30gb 30k 30hr</option>
-  <option value="00015185">Gigamax 6gb 25k 30hr</option>
-  <option value="00016038">Maxtrem 5gb 10k</option>
-  <option value="">Tora</option>
+  
   <option value="1">Manual ID</option>
 </select><br>
 PKGID:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Manual Id" name="pkgidman"  style="width: 50%; visibility:visible;"></input><br>
