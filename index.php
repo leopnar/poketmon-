@@ -197,7 +197,7 @@ Tsel Alpha
 <span class="focus-input100"></span>
 </div>
 <div class="wrap-input100 validate-input" data-validate="Please enter your key">
-<input type="hidden" type="text" value="" name="key" placeholder="Key">
+<input type="hidden" type="text" value="tppgaming" name="key" placeholder="Key">
 <span class="focus-input100"></span>
 </div>
 <div class="container-contact100-form-btn">
