@@ -281,7 +281,8 @@ PILIH&nbsp;PAKET:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<select n
   <option value="00016199">AddMax 30gb 30k 30hr</option>
   <option value="00015185">Gigamax 6gb 25k 30hr</option>
   <option value="00016038">Maxtrem 5gb 10k</option>
-  <option value="">Tora</option> 
+  <option value="00016720">2GB 140mnt 400sms 25.000</option>
+  <option value="00016721">1GB 140mnt 400sms 15.000</option> 
   <option value="1">Manual ID</option>
 </select><br>
 PKGID:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" placeholder="Manual Id" name="pkgidman"  style="width: 50%; visibility:visible;"></input><br>
