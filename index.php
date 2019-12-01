@@ -4,7 +4,7 @@ session_start(); #list: key, msisdn, otp, secret_token
 <head>
 <style>
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #808080; /* Green */
   border: none;
   color: white;
   padding: 16px 32px;
@@ -30,7 +30,7 @@ a {
 }
 
 .button:hover {
-  background-color: #;
+  background-color: #808080;
   color: red;
 }
 
