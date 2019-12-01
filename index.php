@@ -40,7 +40,7 @@ a {
 <body>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rathalos/NizarE</title>
+    <title>Rathalos</title>
     <link rel="shortcut icon" href="https://resources.1337route.cf/favicon.ico" type="image/x-icon" />
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="https://colorlib.com/etc/cf/ContactFrom_v10/vendor/bootstrap/css/bootstrap.min.css">
@@ -188,7 +188,7 @@ a {
 <div class="wrap-contact100">
 <form class="contact100-form validate-form" method="POST">
 <span class="contact100-form-title">
-Tsel By Alpha/Nza-r
+Tsel Alpha
 </span>
 <!--     <form method="POST">
     <pre> -->
